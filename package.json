@@ -1,5 +1,5 @@
 {
-  "name": "Synchronous Dispatcher Demo",
+  "name": "synchronous-dispatcher-demo",
   "version": "0.1.0",
   "devDependencies": {
     "react-scripts": "0.7.0"
@@ -9,7 +9,7 @@
     "react-dom": "15.4.1",
     "promise": "6.1.0",
     "jquery": "3.2.1",
-    "synchronous-dispatcher": "1.0.7"
+    "synchronous-dispatcher": "1.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
